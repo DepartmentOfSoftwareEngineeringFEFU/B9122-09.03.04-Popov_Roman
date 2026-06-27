@@ -178,3 +178,125 @@ VITE_ASSESSMENT_BASE_URL=http://localhost:8080
 ```bash
 docker compose up --build -d
 ```
+## Ниже приведены основные экраны пользовательского интерфейса.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/start_page.png" alt="Начальная страница" />
+      <br />
+      <strong>Начальная страница</strong>
+      <br />
+      Начальная страница системы
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/auth.png" alt="Окно авторизации" />
+      <br />
+      <strong>Авторизация</strong>
+      <br />
+      Окно входа или регистрации в систему
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/home_page.png" alt="Начальная страница" />
+      <br />
+      <strong>Домашняя страница</strong>
+      <br />
+      Начальная страница после регистрации
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/tests.png" alt="Список тестов" />
+      <br />
+      <strong>Тесты</strong>
+      <br />
+      Просмотр и фильтрация тестов
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/materials.png" alt="Страница с материалами" />
+      <br />
+      <strong>Материалы</strong>
+      <br />
+      Просмотр и фильтрация материалов
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/statistics.png" alt="Статистика" />
+      <br />
+      <strong>Статистика</strong>
+      <br />
+      Страница статистики
+    </td>
+  </tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/dynamic.png" alt="Критерий готовности и динамика" />
+      <br />
+      <strong>Уровень готовности и динамика</strong>
+      <br />
+      Просмотр уровня готовности и динамики подготовки
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/profile.png" alt="Страница с материалами" />
+      <br />
+      <strong>Материалы</strong>
+      <br />
+      Просмотр и фильтрация материалов
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/statistics.png" alt="Статистика" />
+      <br />
+      <strong>Статистика</strong>
+      <br />
+      Страница статистики и рекомендаций
+    </td>
+  </tr>
+</table>
+
+## Основные экраны администратора
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/admin_track.png" alt="Страница админа" />
+      <br />
+      <strong>Окно направлений</strong>
+      <br />
+      Страница управления направлениями
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/admin_topic.png" alt="Страница админа" />
+      <br />
+      <strong>Окно тем</strong>
+      <br />
+      Страница управления темами
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/admin_tests.png" alt="Страница админа" />
+      <br />
+      <strong>Окно тестов</strong>
+      <br />
+      Страница управления тестами
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/admin_questions.png" alt="Страница админа" />
+      <br />
+      <strong>Окно вопросов</strong>
+      <br />
+      Страница управления вопросами
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/admin_answers.png" alt="Страница админа" />
+      <br />
+      <strong>Окно ответов</strong>
+      <br />
+      Страница управления ответами
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshots/admin_materials.png" alt="Страница админа" />
+      <br />
+      <strong>Окно материалов</strong>
+      <br />
+      Страница управления материалами
+    </td>
+</table>
