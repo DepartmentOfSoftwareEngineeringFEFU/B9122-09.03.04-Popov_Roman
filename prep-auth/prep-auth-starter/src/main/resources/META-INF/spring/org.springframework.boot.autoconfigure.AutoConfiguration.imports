@@ -1,0 +1,3 @@
+plugin.prep.auth.JwtPropertiesConfig
+plugin.prep.auth.SecurityConfig
+plugin.prep.auth.AuthConfig
